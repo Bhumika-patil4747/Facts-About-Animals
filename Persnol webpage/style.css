@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to left,lightblue,lightpink,lightblue,pink,lightblue,lightpink,lightblue);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Original Surfer', cursive;
+    color: blue;
+}
+img{
+    text-align: center;
+    width: 250px;
+    height: 250px;
+}
+h1{
+    font-family: "Acme", cursive;
+    color: #800000;
+    text-shadow: 5px 5px #ff004e;
+}
